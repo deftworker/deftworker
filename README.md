@@ -13,8 +13,9 @@ I am a full-stack developer, software engineer, product manager, and founder who
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Three.js](https://threejs.org/)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Three.js](https://threejs.org/) |
+![WebRTC](https://webrtc.org/) |
+![Selenium](https://www.selenium.dev/)
 
 ### Iterator (To be open sourced soon)
 
@@ -22,7 +23,7 @@ I am a full-stack developer, software engineer, product manager, and founder who
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![WebRTC](https://webrtc.org/)
+![GraphQL](https://graphql.org/)
 
 ### DoerHub.com (offline)
 
