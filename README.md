@@ -4,24 +4,24 @@ I am a full-stack developer, software engineer, product manager, and founder who
 ![GitHub followers](https://img.shields.io/github/followers/deftworker?style=social)
 
 ### DreamList.com https://www.dreamlist.com 
-DreamList was written from scratch in Go(Golang), and Postgres, due to much higher performance and better flexibility with the data. The architecture benefits from low levels abstraction and low dependence on third party modules, which is great for maintainability and on-boarding of additional engineers. At the time of architectural decisions, React came with IP concerns for consumer startups, so I stuck with lightweight custom JS. After multiple benchmarks and prototypes the front end was built with different external and internal facing architectures. External pages are mostly static with plain JS, JQuery, and backend optimizations for SEO performance. DreamList is a top 10 result on Google for ![Christmas Wish List](https://www.dreamlist.com/christmas-wish-list), ![Online Wishlist](https://www.dreamlist.com/wishlist) and hundreds of other collaborative shopping categories. Internal user-facing pages have addittional privacy controls indexing prevention, and custom JS for novel UX modules, user delight, and security. Unlike any other collaborative shopping site, you won't find any user lists indexed on google. DreamList is designed to be private and ads-free by default. 
+DreamList was written from scratch in Go(Golang), and Postgres, due to much higher performance and better flexibility with the data. The architecture benefits from low levels abstraction and low dependence on third party modules, which is great for maintainability and on-boarding of additional engineers. At the time of architectural decisions, React came with IP concerns for consumer startups, so I stuck with lightweight custom JS. After multiple benchmarks and prototypes the front end was built with different external and internal facing architectures. External pages are mostly static with plain JS, JQuery, and backend optimizations for SEO performance. DreamList is a top 10 result on Google for Christmas Wish List, Online Wishlist and hundreds of other collaborative shopping categories. Internal user-facing pages have addittional privacy controls indexing prevention, and custom JS for novel UX modules, user delight, and security. Unlike any other collaborative shopping site, you won't find any user lists indexed on google. DreamList is designed to be private and ads-free by default. 
 
 On addition to the main site, there is a product graph and api server architected to protect the privacy of users, but still get them all informatin they need about products they've added from affiliated retailers; a testing suite; a native iOS app in Swift with WKWebview, SwiftUI, and UIViewControllers and a number of other native tools so users can scan barcodes, celebrate holidays virtually, and preserve memories. The product graph is grounds for NLP experiments to build a multi-layered product recommendations and search engine for users. 
 
 Choosing to do native iOS code for the mobile apps was hard and time consuming, but worth the effort, because of functionality gains for users. For repeatable content, I'm doing a custom implementation of WKWebView with caching, and triggers for native behavior within a UIViewController. 
 
-![Go(Golang)](https://golang.org/) |
-![JavaScript](https://www.w3schools.com/js/DEFAULT.asp) |
-![jQuery](https://jquery.com/) |
-![Postgres](https://www.postgresql.org/) |
-![Redis](https://redis.io/) |
-![Gulp](https://gulpjs.com/) |
-![NodeJS](https://nodejs.org) |
-![Swift](https://developer.apple.com/swift/) |
-![Xcode](https://developer.apple.com/xcode/) |
-![Three.js](https://threejs.org/) |
-![WebRTC](https://webrtc.org/) |
-![Selenium](https://www.selenium.dev/)
+![Go(Golang)] |
+![JavaScript] |
+![jQuery] |
+![Postgres] |
+![Redis] |
+![Gulp] |
+![NodeJS] |
+![Swift] |
+![Xcode] |
+![Three.js] |
+![WebRTC] |
+![Selenium]
 
 ### Iterator (To be open sourced soon)
 To judge market demand for new products and new DreamList features, I've developed a Go server with routes that channel different domains for a variety of landing pages with similar template structure and a divided PostgresSQL database. The pages can have custom functionality and output static code, so each can scale relatively well in case of HN features or other traffic peaks. I've been planning to outsource the iterator, but it's not cleaned up yet, due to a lot of Holiday work on the DreamList mobile apps. 
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Using: https://github.com/Ileriayo/markdown-badges
+
