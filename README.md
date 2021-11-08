@@ -5,11 +5,11 @@ I am a full-stack developer, software engineer, product manager, and founder who
 
 ### DreamList.com https://www.dreamlist.com 
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+![Go](https://golang.org/)
+![JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+![jQuery](https://jquery.com/)
+![Postgres](https://www.postgresql.org/)
+![Gulp](https://gulpjs.com/)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -18,6 +18,7 @@ I am a full-stack developer, software engineer, product manager, and founder who
 ![Selenium](https://www.selenium.dev/)
 
 ### Iterator (To be open sourced soon)
+To judge market demand for new products and new DreamList features, I've developed a GO/GOLANG server with routes that channel different domains for a variety of landing pages with similar template structure and a divided PostgresSQL database. The pages can have custom functionality and output static code, so each can scale relatively well in case of HN features or other traffic peaks. I've been planning to outsource the iterator, but it's not cleaned up yet, due to a lot of Holiday work on the DreamList mobile apps. Some domains that 
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,10 +27,12 @@ I am a full-stack developer, software engineer, product manager, and founder who
 ![GraphQL](https://graphql.org/)
 
 ### DoerHub.com (offline)
+A RubyOnRails and MongoDB online hub for University innovation hubs and project teams. Built in 2013, the site was used by students, coding clubs, researchers, and entrepreneurs at top universities including the University of Chicago, Stanford, UIUC, Berkeley, USC, Northwestern, and startups across the country. I loved helping organizers at entrepreneurial competitions and hackathons, lecturing at coding clubs, conecting with researchers, judging at Stanford's first TreeHacks Hackathon, and participating in YC Hacks, Launch Hackathon, and a number of other clubs and events while building the site. Many DoerHub users eventually became founders and are now either Angel Investors or Founders.   
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![D3.js](https://d3js.org/)
 
 ### 
