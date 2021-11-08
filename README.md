@@ -24,25 +24,25 @@ WebRTC |
 Selenium
 
 ### Iterator (To be open sourced soon)
-To judge market demand for new products and new DreamList features, I've developed a Go server with routes that channel different domains for a variety of landing pages with similar template structure and a divided PostgresSQL database. The pages can have custom functionality and output static code, so each can scale relatively well in case of HN features or other traffic peaks. I've been planning to outsource the iterator, but it's not cleaned up yet, due to a lot of Holiday work on the DreamList mobile apps. 
+To judge market demand for new products and new DreamList features, I've developed a Go server with routes that channel different domains for a variety of landing pages with similar template structure and a divided PostgresSQL database. It's like a singleton pattern homegrown Squarespace, with better SEO and performance. The different domain pages can have custom functionality and output static code, so each can scale relatively well in case of HN features or other traffic peaks. I've been planning to outsource the iterator, but it's not cleaned up yet, due to a lot of Holiday work on the DreamList mobile apps. 
 
-![Go(Golang)](https://golang.org/) |
-![Postgres](https://www.postgresql.org/) |
-![TypeScript](https://www.typescriptlang.org/) |
-![React.js](https://reactjs.org/) |
-![GraphQL](https://graphql.org/)
+Go(Golang) |
+Postgres |
+TypeScript |
+React.js |
+GraphQL
 
 ### DoerHub.com (offline, may be rewritten and open-sourced eventually)
 A RubyOnRails and MongoDB online hub for University innovation hubs and project teams. Built in 2013, the site was used by students, coding clubs, researchers, and entrepreneurs at top universities including the University of Chicago, Stanford, UIUC, Berkeley, USC, Northwestern, and startups across the country. I loved helping organizers at entrepreneurial competitions and hackathons, lecturing at coding clubs, conecting with researchers, judging at Stanford's first TreeHacks Hackathon, and participating in YC Hacks, Launch Hackathon, and a number of other clubs and events while building the site. Many DoerHub users eventually became founders and are now either Angel Investors or Founders. The big reason the site closed, was because becoming successful meant we had to lose our users. Inherent in any team or people matching platform is the inverse success incentive. People would share projects, grow them with contributors and collaborators, and then leave to start their businesses. Unless we charged per match or per listing like dating and recruiting sites, and Devpost, we would not be able to stay afloat, and that would eliminate the best new users coming into the site. So I took the key parts of the architecture (visualisations on user badges, algorithms for matching and serving intent, and spam filtering tools) and built DreamList instead, where meeting and exceeding user needs leads to retention and growth. RubyOnRails was great for quick iteration and new models, but due to the low Request Per Second performance of the stack at the time, I used Golang thereafter and had to pay a lot less for server costs. MongoDB was replaced with PostgresSQL due to a lot better handling of relational data and JSON/JSONB availability in Postgres.  
 
-![Ruby](https://www.ruby-lang.org) |
-![RubyOnRails](https://rubyonrails.org/) |
-![JavaScript](https://www.w3schools.com/js/DEFAULT.asp) |
-![jQuery](https://jquery.com/) |
-![Bootstrap](https://getbootstrap.com/) |
-![MongoDB](https://www.mongodb.com/) |
-![Neo4j](https://neo4j.com/) |
-![D3.js](https://d3js.org/)
+Ruby |
+RubyOnRails |
+JavaScript |
+jQuery |
+Bootstrap |
+MongoDB |
+Neo4j |
+D3.js
 
 ### 
 
