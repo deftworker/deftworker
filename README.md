@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack developer, software engineer, product manager, and founder who launches and iterates on a portfolio of consumer products online. While the code is private, most projects are live on the web and open for preview or signup online, so feel free to check them out. 
+I am a full-stack developer, software engineer, product manager, and founder who launches and iterates on a portfolio of consumer products online. While the code is private, my projects live on the web and are open for preview and signup online, so feel free to check them out. 
 ![GitHub followers](https://img.shields.io/github/followers/deftworker?style=social)
 
 ### DreamList.com https://www.dreamlist.com 
