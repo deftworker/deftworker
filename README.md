@@ -10,18 +10,18 @@ On addition to the main site, there is a product graph and api server architecte
 
 Choosing to do native iOS code for the mobile apps was hard and time consuming, but worth the effort, because of functionality gains for users. For repeatable content, I'm doing a custom implementation of WKWebView with caching, and triggers for native behavior within a UIViewController. 
 
-![Go(Golang)] |
-![JavaScript] |
-![jQuery] |
-![Postgres] |
-![Redis] |
-![Gulp] |
-![NodeJS] |
-![Swift] |
-![Xcode] |
-![Three.js] |
-![WebRTC] |
-![Selenium]
+Go(Golang) |
+JavaScript |
+jQuery |
+Postgres |
+Redis |
+Gulp |
+NodeJS |
+Swift |
+Xcode |
+Three.js |
+WebRTC |
+Selenium
 
 ### Iterator (To be open sourced soon)
 To judge market demand for new products and new DreamList features, I've developed a Go server with routes that channel different domains for a variety of landing pages with similar template structure and a divided PostgresSQL database. The pages can have custom functionality and output static code, so each can scale relatively well in case of HN features or other traffic peaks. I've been planning to outsource the iterator, but it's not cleaned up yet, due to a lot of Holiday work on the DreamList mobile apps. 
