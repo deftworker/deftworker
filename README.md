@@ -32,7 +32,7 @@ TypeScript |
 React.js |
 GraphQL | HTML | CSS | JSON
 
-To judge market demand for new products and new DreamList features, I've developed a Go server with routes that channel different domains for a variety of landing pages with similar template structure and a divided PostgresSQL database. It's like a singleton pattern homegrown Squarespace, with better SEO and performance. The different domain pages can have custom functionality and output static code, so each can scale relatively well in case of HN features or other traffic peaks. I've been planning to outsource the iterator, but it's not cleaned up yet, due to a lot of Holiday work on the DreamList mobile apps. 
+To judge market demand for new products and new DreamList features, I've developed a Go server with routes that channel different domains for a variety of landing pages with similar template structure and a divided PostgresSQL database. It's like a singleton pattern homegrown Squarespace, with better SEO and performance. The different domain pages can have custom functionality and output static code, so each can scale relatively well in case of HN features or other traffic peaks. I've been planning to opensource the iterator, but it's not cleaned up yet, due to a lot of Holiday work on the DreamList mobile apps. 
 
 
 ### DoerHub.com (offline, may be rewritten in Go or Rust and open-sourced eventually)
